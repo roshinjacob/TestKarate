@@ -7,8 +7,9 @@ Feature: Get list of users
     When method GET
     Then status 200
     * def expectedSchema =
-
-#new line for test
+#new line for test1
+#new line for test2
+#new line for test3
 """
 {
   page: '#number',
