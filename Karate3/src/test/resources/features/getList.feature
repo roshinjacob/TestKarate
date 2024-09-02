@@ -8,6 +8,7 @@ Feature: Get list of users
     Then status 200
     * def expectedSchema =
 #new line for test1
+#new line for test333
 #new line for test222
 #new line for test3
 """
